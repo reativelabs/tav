@@ -1,6 +1,18 @@
-# Tav
+<p align="center">
+  <img src="images/icons/documents.svg" alt="Tav Documents" width="72">
+  <img src="images/icons/spreadsheets.svg" alt="Tav Spreadsheets" width="72">
+  <img src="images/icons/slides.svg" alt="Tav Slides" width="72">
+  <img src="images/icons/pdf.svg" alt="Tav PDF" width="72">
+</p>
 
-Tav is the office suite that stays on your computer: four fast desktop apps for documents, spreadsheets, presentations and PDFs. Free to use, offline by design, with no account and no telemetry.
+<h1 align="center">Tav</h1>
+
+Tav is the office suite that stays on your computer: four fast desktop apps for documents, spreadsheets, presentations and PDFs. Free to use, offline by design, with no account needed.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/screenshots/spreadsheets-dark.webp">
+  <img src="images/screenshots/spreadsheets-light.webp" alt="Tav Spreadsheets" width="100%">
+</picture>
 
 This repository hosts the installers. Get the latest version from **[gettav.com/download](https://gettav.com/download)** or from **[Releases](https://github.com/reativelabs/Tav-Releases/releases/latest)**.
 
@@ -8,12 +20,35 @@ This repository hosts the installers. Get the latest version from **[gettav.com/
 
 | App | What it does | Formats |
 | --- | --- | --- |
-| Tav Documents | Word processing | DOCX, ODT, TXT, PDF export |
-| Tav Spreadsheets | Spreadsheets and charts | XLSX, ODS, CSV, TSV, PDF export |
-| Tav Slides | Presentations | PPTX, ODP, PDF export |
-| Tav PDF | Reading, commenting and editing PDFs | PDF |
+| <img src="images/icons/documents.svg" width="20" alt=""> Tav Documents | Word processing | DOCX, ODT, TXT, PDF export |
+| <img src="images/icons/spreadsheets.svg" width="20" alt=""> Tav Spreadsheets | Spreadsheets and charts | XLSX, ODS, CSV, TSV, PDF export |
+| <img src="images/icons/slides.svg" width="20" alt=""> Tav Slides | Presentations | PPTX, ODP, PDF export |
+| <img src="images/icons/pdf.svg" width="20" alt=""> Tav PDF | Reading, commenting and editing PDFs | PDF |
 
 Each app is a separate download. Install only the ones you need.
+
+## Screenshots
+
+### Tav Documents
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/screenshots/documents-dark.webp">
+  <img src="images/screenshots/documents-light.webp" alt="Tav Documents" width="100%">
+</picture>
+
+### Tav Slides
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/screenshots/slides-dark.webp">
+  <img src="images/screenshots/slides-light.webp" alt="Tav Slides" width="100%">
+</picture>
+
+### Tav PDF
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/screenshots/pdf-dark.webp">
+  <img src="images/screenshots/pdf-light.webp" alt="Tav PDF" width="100%">
+</picture>
 
 ## Downloads
 
