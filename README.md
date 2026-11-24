@@ -73,7 +73,7 @@ Get the apps from **[gettav.com/download](https://gettav.com/download)** or from
 | Linux, most PCs | `Tav-<App>-Linux-x86_64.AppImage` | Make it executable (`chmod +x`), then run it. No installation needed. |
 | Linux on ARM64 | `Tav-<App>-Linux-aarch64.AppImage` | Make it executable (`chmod +x`), then run it. No installation needed. |
 
-Linux builds need glibc 2.38 or later: Ubuntu 24.04, Fedora 39, Debian 13 or newer. If an AppImage does not start, install FUSE 2 (Ubuntu: `sudo apt install libfuse2t64`).
+Linux builds need glibc 2.38 or later: Ubuntu 24.04, Fedora 39, Debian 13 or newer. If an AppImage does not start, install FUSE (Ubuntu and Debian: `sudo apt install fuse3`; Fedora: `sudo dnf install fuse3`).
 
 > [!NOTE]
 > The macOS apps are signed and notarized by Apple. The Windows installers are not code-signed yet, so Windows SmartScreen may show *"Windows protected your PC"* the first time you run one: choose **More info → Run anyway**. The warning only means the file has no code signature. To confirm your download is genuine first, see [Verifying your download](#verifying-your-download).
